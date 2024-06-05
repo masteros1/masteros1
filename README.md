@@ -18,7 +18,7 @@ I'm constantly expanding my skills and currently learning more about:
 - Advanced penetration testing techniques
 - Machine learning for cybersecurity
 - Cloud security with AWS
-
+ 
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/jude-obodai-sai-43530a26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
